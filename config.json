@@ -1,0 +1,5 @@
+{
+    "source_repository_url": "https://username:password@github.com/path/to/repo.git",
+    "destination_repository_url": "https://username:password@gitlab.local/path/to/repo.git",
+    "disable_git_ssl_verify": "false"
+}
